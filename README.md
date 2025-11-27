@@ -1,3 +1,9 @@
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/GxFrank/count.svg"/>
+  <br/>
+</div>
+
 # 💫 About Me:
 Estudiante de Ingeniería de Sistemas e Informática, orientado al desarrollo de soluciones web modernas y eficientes. Trabajo con tecnologías como Angular, React, Node.js, Spring Boot, Supabase y MySQL, aplicando buenas prácticas de programación, control de versiones con Git y metodologías ágiles. Me apasiona construir sistemas escalables, intuitivos y centrados en el usuario, mientras continúo fortaleciendo mis habilidades en arquitectura de software y desarrollo full-stack.
 
